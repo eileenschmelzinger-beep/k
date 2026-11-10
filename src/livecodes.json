@@ -1,0 +1,32 @@
+{
+  "title": "HTML Website Informatik",
+  "description": "",
+  "head": "<meta charset=\"UTF-8\" />\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" />",
+  "htmlAttrs": "lang=\"en\" class=\"\"",
+  "tags": [],
+  "activeEditor": "markup",
+  "markup": {
+    "language": "html",
+    "content": "<html lang=\"de\">\n  <head>\n    <base\n      href=\"https://frdorn.github.io/Informatik_BG/Eingangsklasse/Internetseiten/\"\n    />\n\n    <meta charset=\"utf-8\" />\n    <meta\n      name=\"viewport\"\n      content=\"width=device-width,\n                    initial-scale=1\"\n    />\n    <title>world of music - Starseite</title>\n  </head>\n  <body>\n    <h1>Herzlich Willkommen bei der Musikschule world of music e.V.</h1>\n\n    <img src=\"https://picsum.photos/464/344\" width=\"464\" height=\"344\" />\n\n    <p>Adresse:</p>\n    <p>Wiesengasse 11</p>\n    <p>79888 Reintal</p>\n    <p>wom@xmg.de</p>\n    <p>Unsere Internetseiten befinden sich im Aufbau.</p>\n  </body>\n</html>\n"
+  },
+  "style": {
+    "language": "css",
+    "content": "h1 {\ncolor: #8a4b12;\n}\n\nbody {\n  color: #faf6ee;\n\n  font-family: system-ui; \"Segoe UI\", Arial, sans-serif;\n\n  line-height: 1.6;\n\n}\n\np {\n  color: #3b2a1a;\n}"
+  },
+  "script": {
+    "language": "javascript",
+    "content": ""
+  },
+  "stylesheets": [],
+  "scripts": [],
+  "cssPreset": "",
+  "processors": [],
+  "customSettings": {},
+  "imports": {},
+  "types": {},
+  "tests": {
+    "language": "typescript",
+    "content": ""
+  },
+  "version": "49"
+}
